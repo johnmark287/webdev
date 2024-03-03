@@ -1,3 +1,3 @@
 # webdev
 
-Frontend with tailwind css and Backned codes with flask.
+Frontend with tailwind css and Backend codes with flask.
