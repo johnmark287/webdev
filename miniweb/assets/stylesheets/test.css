@@ -11,6 +11,8 @@
     margin-left: 104px;
     font-size: 45px;
     font-weight: 200;
+    border-radius: 5px;
+    padding: 3px 5px;
 }
 .header {
     display: flex;
@@ -34,8 +36,9 @@ a {
     text-decoration: none;
 }
 
-a:hover {
-    color: black;
+.navbar a:hover {
+    color: white;
+    background-color: black;
 }
 
 .logo {

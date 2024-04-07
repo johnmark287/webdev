@@ -1,0 +1,12 @@
+.header {
+ text-align: center;
+ background-color: grey;
+ padding: 1px;
+ border-radius: 5px;
+}
+
+.sidebar {
+    float: left;
+    width: 33.33%;
+    padding: 10;
+}
